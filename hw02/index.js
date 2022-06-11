@@ -1,4 +1,4 @@
-// Blog oluşturmaya hazır mısınız? Konsol ekranında postlarımızı sıralayalım, sonrasında yeni bir post oluşturalım ve yeni post ile birlikte postlarımızı tekrar sıralayalım.
+
 
 const blogs = [
   {id: 1, title: "Bringing forward the End-of-Life Date for Node.js 16", author: "Hamit"},
